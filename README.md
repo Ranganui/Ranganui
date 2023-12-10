@@ -18,7 +18,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ranganui&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ranganui&theme=radical&no-frame=true&row=1&column=3&margin-w=15&margin-h=15&trophies=Joined,Commits,Experience)
 
 <!-- ## 📚 My Top Projects
 
