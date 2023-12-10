@@ -3,8 +3,8 @@
 ## 👨‍💻 About Me
 
 - 🖥️ Platform Delivery engineer with a passion for Automation and breaking things.
-- 🌱 I’m currently learning [New Technology/Technique].
-- 💡 I like to make things go fast.
+- 🌱 I’m currently learning Bash.
+- 💡 I like to learn things to make things go faster.
 
 ## 🚀 Skills
 
@@ -20,10 +20,10 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Ranganui&theme=onedark)
 
-## 📚 My Top Projects
+<!-- ## 📚 My Top Projects
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ranganui&repo=repository-name-1&theme=vision-friendly-dark)](https://github.com/Ranganui/repository-name-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Ranganui&repo=repository-name-2&theme=vision-friendly-dark)](https://github.com/Ranganui/repository-name-2)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Ranganui&repo=repository-name-2&theme=vision-friendly-dark)](https://github.com/Ranganui/repository-name-2) -->
 
 ## 📬 Get in Touch
 
