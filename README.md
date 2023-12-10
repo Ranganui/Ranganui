@@ -12,9 +12,9 @@
 - Automation Frameworks: Selenium, Cypress, Playwright
 - Tools: [Git, Docker, GithubActions]
 
-## 📊 My GitHub Stats
+<!-- ## 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranganui&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranganui&show_icons=true&theme=radical) -->
 
 ## 🏆 GitHub Trophies
 
