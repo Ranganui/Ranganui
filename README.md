@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 - 🖥️ Platform Delivery engineer with a passion for Automation and breaking things.
-- 🌱 I’m currently learning Bash.
+- 🌱 I’m currently learning Bash, terraform and AWS
 - 💡 I like to learn things to make things go faster.
 
 ## 🚀 Skills
